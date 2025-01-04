@@ -41,4 +41,4 @@ Herramientas usadas para crear este proyecto .
 - shadcn-ui
 - Tailwind CSS
 
-## Espero les sirva de ayuda, mis agradecimientos por usar esta heramienta.
+Espero les sirva de ayuda, mis agradecimientos por usar esta herramienta.
